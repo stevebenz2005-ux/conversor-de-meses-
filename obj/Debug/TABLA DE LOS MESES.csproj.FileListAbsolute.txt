@@ -1,0 +1,10 @@
+C:\Users\steve\source\repos\programaci-n2026\TABLA DE LOS MESES\TABLA DE LOS MESES\bin\Debug\TABLA DE LOS MESES.exe.config
+C:\Users\steve\source\repos\programaci-n2026\TABLA DE LOS MESES\TABLA DE LOS MESES\bin\Debug\TABLA DE LOS MESES.exe
+C:\Users\steve\source\repos\programaci-n2026\TABLA DE LOS MESES\TABLA DE LOS MESES\bin\Debug\TABLA DE LOS MESES.pdb
+C:\Users\steve\source\repos\programaci-n2026\TABLA DE LOS MESES\TABLA DE LOS MESES\obj\Debug\TABLA DE LOS MESES.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\programaci-n2026\TABLA DE LOS MESES\TABLA DE LOS MESES\obj\Debug\TABLA_DE_LOS_MESES.Form1.resources
+C:\Users\steve\source\repos\programaci-n2026\TABLA DE LOS MESES\TABLA DE LOS MESES\obj\Debug\TABLA_DE_LOS_MESES.Properties.Resources.resources
+C:\Users\steve\source\repos\programaci-n2026\TABLA DE LOS MESES\TABLA DE LOS MESES\obj\Debug\TABLA DE LOS MESES.csproj.GenerateResource.cache
+C:\Users\steve\source\repos\programaci-n2026\TABLA DE LOS MESES\TABLA DE LOS MESES\obj\Debug\TABLA DE LOS MESES.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\programaci-n2026\TABLA DE LOS MESES\TABLA DE LOS MESES\obj\Debug\TABLA DE LOS MESES.exe
+C:\Users\steve\source\repos\programaci-n2026\TABLA DE LOS MESES\TABLA DE LOS MESES\obj\Debug\TABLA DE LOS MESES.pdb
